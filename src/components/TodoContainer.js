@@ -1,8 +1,11 @@
+import Header from "./Header";
+import TodoList from "./TodoList";
 
 function TodoContainer() {
   return (
     <div className="TodoContainer">
-     <h1>To Do List</h1>
+      <Header/>
+      <TodoList/>
     </div>
   );
 }

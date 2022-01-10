@@ -1,9 +1,10 @@
 
 function TodoItem(props) {
   return (
-    <div className="TodoItem">
-     
-    </div>
+    <li className="TodoItem">
+       <input type="checkbox" checked={props.todo.completed}  />
+      {props.todo.title}    
+    </li>
   );
 }
 
