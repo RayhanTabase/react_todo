@@ -1,10 +1,7 @@
 import React from "react";
-import { Link, Outlet, useLocation } from "react-router-dom"
+import { Link, Outlet } from "react-router-dom"
 
-import SinglePage from "./SinglePages";
-
-const About = (props) => {
-  const { pathname } = useLocation();
+const About = () => {
   return (
     <div className="about__content">
       <ul className="about__list">
