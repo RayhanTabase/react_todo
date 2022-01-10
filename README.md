@@ -6,6 +6,9 @@ A To-do list app which utilises the power of React routers for Single page appli
 ## Screenshots
 
 ![screenshot](./screenshot/pc.jpeg)
+![screenshot](./screenshot/pc1.jpeg)
+![screenshot](./screenshot/pc2.jpeg)
+![screenshot](./screenshot/pc3.jpeg)
 
 ## Built With
 - React
