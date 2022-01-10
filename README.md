@@ -36,6 +36,10 @@ Start a local server running the command
 
 You should now have the project running locally on a dev server.
 
+## Acknowledgements
+This project was built from the tutorial [React Tutorial From Scratch: A Step-by-Step Guide (2021)](https://ibaslogic.com/react-tutorial-for-beginners/)
+
+
 ## Author
 
 👤 **Salim Abdulai**
