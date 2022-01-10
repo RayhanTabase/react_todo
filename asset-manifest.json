@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RayhanTabase/react_todo/static/css/main.39e33186.css",
+    "main.js": "/RayhanTabase/react_todo/static/js/main.762736fe.js",
+    "static/js/787.b2c88a6a.chunk.js": "/RayhanTabase/react_todo/static/js/787.b2c88a6a.chunk.js",
+    "index.html": "/RayhanTabase/react_todo/index.html",
+    "main.39e33186.css.map": "/RayhanTabase/react_todo/static/css/main.39e33186.css.map",
+    "main.762736fe.js.map": "/RayhanTabase/react_todo/static/js/main.762736fe.js.map",
+    "787.b2c88a6a.chunk.js.map": "/RayhanTabase/react_todo/static/js/787.b2c88a6a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39e33186.css",
+    "static/js/main.762736fe.js"
+  ]
+}
